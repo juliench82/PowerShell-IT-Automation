@@ -1,0 +1,24 @@
+# General
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# PowerShell
+*.ps1xml
+*.pssc
+*.psd1.user
+
+# Reports & Outputs
+reports/
+compliance/
+*.html
+
+# Python/Virtual env (if used for helpers)
+.venv/
+__pycache__/
+
+# Secrets (never commit)
+.env
+.env.*
