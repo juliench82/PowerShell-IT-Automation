@@ -1,5 +1,7 @@
 # PowerShell IT Automation Suite 🚀
 
+Enterprise PowerShell suite for onboarding, infra health, and compliance automation.
+
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%20%7C%207.x-blue.svg)](https://docs.microsoft.com/powershell/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%20Server-lightgrey.svg)](#)
 [![Enterprise](https://img.shields.io/badge/Category-Enterprise%20IT-orange.svg)](#)
