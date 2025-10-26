@@ -1,0 +1,3 @@
+FirstName,LastName,Email,Department,Title,Manager,OU,Groups
+Alice,Martin,alice.martin@company.local,Engineering,SysAdmin,cn=John Doe,ou=Managers,dc=company,dc=local,ou=Engineering,dc=company,dc=local,IT-Admins;VPN-Users
+Bob,Durand,bob.durand@company.local,Finance,Analyst,cn=Jane Smith,ou=Managers,dc=company,dc=local,ou=Finance,dc=company,dc=local,Finance-Read;VPN-Users
