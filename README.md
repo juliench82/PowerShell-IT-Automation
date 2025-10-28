@@ -72,7 +72,7 @@ Install-Module ActiveDirectory, PSWindowsUpdate -Scope CurrentUser -Force
 ```
 
 ## 👤 Author
-**Julien Chevallier** — Senior IT Manager
+**Julien Chevallier** — Senior IT Support Engineer
 
 ---
 
